@@ -1,0 +1,2 @@
+Simulator/darwin-arm64
+541e11583b03dd7e5935b60a5bdfeb998ffb67f2eea2f81a4b3965f80925379c
