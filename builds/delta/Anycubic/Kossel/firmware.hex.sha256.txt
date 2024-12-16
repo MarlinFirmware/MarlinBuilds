@@ -1,0 +1,2 @@
+delta/Anycubic/Kossel
+00e646a08c50df7bbcd90388c7fa81d826b9ccf23cf739d1f621a4e3ab2645c1
