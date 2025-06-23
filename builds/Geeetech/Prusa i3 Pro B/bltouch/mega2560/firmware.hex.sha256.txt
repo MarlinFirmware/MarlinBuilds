@@ -1,0 +1,2 @@
+Geeetech/Prusa i3 Pro B/bltouch
+22da327c53bbb95ac15de0b03d38ce087aa7838869b36e5d627878e26333a7bb

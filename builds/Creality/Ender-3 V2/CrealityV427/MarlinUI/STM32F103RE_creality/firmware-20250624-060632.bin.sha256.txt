@@ -1,0 +1,2 @@
+Creality/Ender-3 V2/CrealityV427/MarlinUI
+e50d1f70166c0d6062fdcae59f7f5f1ff9383f0b20ce0208d987940de63e1336
