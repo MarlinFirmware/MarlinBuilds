@@ -1,0 +1,2 @@
+delta/FLSUN/kossel_mini
+1fa9262d08e0cdc53368e461e413677970c75dbb6226b589d457624b22f25ffd
