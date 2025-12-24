@@ -1,0 +1,2 @@
+RepRapWorld/Minitronics20/CNC
+60ea5d18f5e99a4e25d2028b19b2b52b489f83b73a7d1e52ed8a1d8e2d55e065
