@@ -174,7 +174,7 @@
 //
 // Bed Temp
 //
-#define MAX_BED_POWER                            255
+#define MAX_BED_POWER                            300
 
 //
 // Fans
