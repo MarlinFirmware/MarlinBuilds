@@ -1,0 +1,2 @@
+Creality/Ender-3/BigTreeTech SKR E3 Turbo/2-into-1 Hotend
+fd791dfa943e2b6ad97a4d2420e21baa677ddf861b783436efdb5e7e6289885d

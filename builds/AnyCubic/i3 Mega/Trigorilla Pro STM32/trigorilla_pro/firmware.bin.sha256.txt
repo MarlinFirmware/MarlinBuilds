@@ -1,0 +1,2 @@
+AnyCubic/i3 Mega/Trigorilla Pro STM32
+9de8f51908e33ae3411346023b8d2b04fe274264aeff352669b8ec1a8eb90b78

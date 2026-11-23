@@ -1,9 +1,9 @@
-# MarlinBuilds
-Built binaries of Marlin based on published Marlin Configurations.
+# Marlin 2.1.2.10 Builds
+Built binaries of Marlin 2.1.2.10 based on published Marlin Configurations.
 
-Marlin 2.1.2.6 builds are based on:
-- [Marlin Firmware 2.1.2.6 Source Code](//github.com/MarlinFirmware/Marlin/releases/tag/2.1.2.6)
-- [Marlin Firmware 2.1.2.6 Configurations](//github.com/MarlinFirmware/Configurations/tree/release-2.1.2.6)
+These builds are based on:
+- [Marlin Firmware 2.1.2.10 Source Code](//github.com/MarlinFirmware/Marlin/releases/tag/2.1.2.10)
+- [Marlin Firmware 2.1.2.10 Configurations](//github.com/MarlinFirmware/Configurations/tree/release-2.1.2.10)
 
 Not all sub-options for configurations are yet included in this build repository. Only the unmodified configurations of each example have been built in this round. We'll be adding more builds and more sub-option builds in future drops.
 
