@@ -1,0 +1,2 @@
+Creality/Ender-3 Pro/BigTreeTech SKR Mini E3 2.0/base
+93eee38111fbf973bd97d2bd598d2c0d424698edb145b4f85e370adf7471f424

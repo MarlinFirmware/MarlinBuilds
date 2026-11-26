@@ -1,0 +1,2 @@
+Creality/Ender-3 S1/STM32F4
+37d302cd8906b1cd47d3c9717d066ec9bf9894ad7408f44feb2aee7b00ad91ff

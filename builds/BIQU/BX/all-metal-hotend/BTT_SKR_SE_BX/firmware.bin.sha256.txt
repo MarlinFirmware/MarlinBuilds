@@ -1,0 +1,2 @@
+BIQU/BX/all-metal-hotend
+d22a013f72b075920ea84d2f9c3d01d6714e102ad62483bfef8d5bc8552aa645
